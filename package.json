@@ -1,0 +1,19 @@
+{
+  "name": "mist-live-react-tvos",
+  "version": "1.0.0",
+  "description": "Experimental TV client for [Mist Live](https://mistlive.tv/) in `react-native-tvos`, letting viewers browse and watch live streams directly on their TV. Port of the Android TV app by rukasu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MistWeatherMedia/mist-live-react-tvos.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MistWeatherMedia/mist-live-react-tvos/issues"
+  },
+  "homepage": "https://github.com/MistWeatherMedia/mist-live-react-tvos#readme"
+}
